@@ -204,7 +204,11 @@ your application.
 ----------------------------------------------------------------
 
 ### Supported Platforms
-wxCharts is still in the development phase and currently only supports MSW
+wxCharts is still in the development phase and currently only supports MSW.
+
+### Links
+- [wxCharts Getting Started Page](https://www.wxishiko.com/wxCharts/gettingstarted.html)
+- [wxCharts README on Github](https://github.com/wxIshiko/wxCharts/blob/main/README.md)
 
 ### MSW Download & Build from Source Instructions
 ----------------------------------------------------------------
